@@ -1,0 +1,11 @@
+.clickme-btn{
+    color: white;
+    background: #000;
+}
+.noclickme-btn{
+    background: yellow;
+}
+.clickme-btn , .noclickme-btn{
+    font-family: Helvetica ,"Times New Roman",  sans-serif;
+    font-size: 28px;
+}
